@@ -33,6 +33,7 @@
     "mysql": "^2.18.1",
     "node-fetch": "^2.6.0",
     "sequelize": "^6.3.3",
+    "tslib": "^2.0.0",
     "winston": "^3.3.3"
   },
   "devDependencies": {
